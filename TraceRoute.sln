@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraceRoute", "TraceRoute\TraceRoute.csproj", "{88062547-ED7E-4EA5-9049-DA14941EACC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88062547-ED7E-4EA5-9049-DA14941EACC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88062547-ED7E-4EA5-9049-DA14941EACC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88062547-ED7E-4EA5-9049-DA14941EACC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88062547-ED7E-4EA5-9049-DA14941EACC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {793A4D43-CB5D-49AB-891D-F83CB9AADF20}
+	EndGlobalSection
+EndGlobal
